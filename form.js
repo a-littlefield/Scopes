@@ -1,3 +1,5 @@
+// Question 4
+
 let submit = document.getElementById('submit');
 let password = document.getElementById('pass');
 let username = document.getElementById('user').value;
