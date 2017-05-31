@@ -1,4 +1,4 @@
-
+//Question 1
 
 let button = document.getElementById('bt1');
 button.addEventListener("click", one);
